@@ -14,7 +14,7 @@
 				<li class="mr-lg-4 mr-2"><a href="services.php">Services</a></li>
 				<li class="mr-lg-4 mr-2"><a href="comingsoon.php">Gallery</a></li>
 				<li class="mr-lg-4 mr-2"><a href="contact.php">Contact</a></li>
-				<li class="mr-lg-4 mr-2"><a href="login.html">Login</a></li>
+				<li class="mr-lg-4 mr-2"><a href="login.php">Login</a></li>
 				<li class="mr-lg-4 mr-2"><span><span class="fa fa-phone"></span> +91 987654321 </span></li>
 			</ul>
 		</nav>

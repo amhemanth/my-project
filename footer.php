@@ -3,7 +3,7 @@
 	<div class="container py-md-3">
 		<!-- logo -->
 		<h2 class="logo2 text-center">
-			<a href="index.html">
+			<a href="index.php">
 				<span class="fa fa-leaf"></span> AgroLife
 			</a>
 		</h2>
