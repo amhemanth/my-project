@@ -66,7 +66,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<h4 class="text-wh mx-auto my-4">Cultivating new crops to make farmers increase profits</h4>
 								<p class="text-li mx-auto mt-2">Ut enim ad minim quis nostrud exerci sed do eiusmod tempor incididunt ut
 									labore et dolore magna aliqua nostrud exerci sed.</p>
-								<a href="about.html" class="button-style mt-sm-5 mt-4">Read More</a>
+								<a href="farming.php" class="button-style mt-sm-5 mt-4">Read More</a>
 							</div>
 						</div>
 					</div>

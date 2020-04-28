@@ -51,14 +51,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-lg-4 col-sm-6">
 				<div class="home-grid">
 					<span class="num-title">01</span>
-					<h4 class="home-title mt-3">Crop Cultivation</h4>
+					<a href="#Crop Cultivation"><h4 class="home-title mt-3">Crop Cultivation</h4></a>
 					<p class="mt-2"> Pellentesque in ipsum id orci porta dapibus roined magna ipsum.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6 mt-sm-0 mt-4">
 				<div class="home-grid">
 					<span class="num-title">02</span>
-					<h4 class="home-title mt-3">Farm Plantation</h4>
+          <a href="farming.php"><h4 class="home-title mt-3">Farm Plantation</h4></a>
 					<p class="mt-2"> Pellentesque in ipsum id orci porta dapibus roined magna ipsum.</p>
 				</div>
 			</div>
