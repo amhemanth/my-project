@@ -5,9 +5,6 @@
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<meta name="keywords" content="Agro Harvest Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-
     <script>
         addEventListener("load", function () {
             setTimeout(hideURLbar, 0);
@@ -83,7 +80,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-lg-6 col-sm-6 mt-sm-0 mt-4">
 					<div class="home-grid">
 						<span class="num-title">05</span>
-						<h4 class="home-title mt-3">Gardening Farm</h4>
+            <a href="garden.php"><h4 class="home-title mt-3">Gardening Farm</h4></a>
 						<p class="mt-2"> Pellentesque in ipsum id orci porta dapibus roined magna ipsum.</p>
 					</div>
 				</div>
